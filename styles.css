@@ -116,6 +116,11 @@ h2 {
     
 }
 
+.but{
+    margin: 2em;
+    color: White;
+}
+
 .h2sub{
     margin-left: 3em;
 }
